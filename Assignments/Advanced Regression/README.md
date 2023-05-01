@@ -35,7 +35,7 @@
 	3. 1stFlrSF
 	4. BedroomAbvGr
 	5. HouseAge
-- Model is Robust and can be generalisable as it has decent scores.
+- Model is Robust and can be generalisable as it is performing better on test data.
 
 
 ## Contact
