@@ -23,6 +23,9 @@
 - Numpy
 - Pandas
 - Linear, Ridge, Lasso Regression
+- Pipeline
+- GridSearchCV
+- Metrics
 
 ## Conclusions
 - Lasso Regression is finalized to model this problem.
