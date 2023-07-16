@@ -26,9 +26,7 @@ Vascular lesion
 
 ## Conclusions
 - Model 3 has a High Training and Validation Accuracy
-- Although 
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Model 4 has even higher accuracy by using one more layer
 
 
 ## Technologies Used
