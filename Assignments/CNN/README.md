@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection
 > Detect Melanoma Skin Cancer using CNN model
 
 
